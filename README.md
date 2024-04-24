@@ -1,2 +1,2 @@
 # DevilTailMC
-File di configurazione per il progetto DevilTail
+## File di introduzione per il progetto DevilTail
